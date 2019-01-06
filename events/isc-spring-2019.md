@@ -7,7 +7,7 @@ title: 'InnerSource Commons Spring Summit 2019'
 
 ### Call For Presentations
 Use this form to submit your proposal for the InnerSource Commons Spring Summit 2019. All proposals are due by midnight, February 10th, 2019. All presentations at the Spring Summit, unless otherwise designated by the presenter, will be covered by the Chatham House Rule. 
-https://docs.google.com/forms/d/1IDFTtWhu_WhmxrZt4Ik2VKsXZmDFYGtnpt76Fd-_V4g/viewform?edit_requested=true 
+https://docs.google.com/forms/d/1IDFTtWhu_WhmxrZt4Ik2VKsXZmDFYGtnpt76Fd-_V4g/viewform?edit_requested=true
 
 ### Registration
 Details will be released shortly.
