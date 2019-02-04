@@ -10,7 +10,7 @@ Use this form to submit your proposal for the InnerSource Commons Spring Summit 
 https://docs.google.com/forms/d/1IDFTtWhu_WhmxrZt4Ik2VKsXZmDFYGtnpt76Fd-_V4g/viewform?edit_requested=true
 
 ### Registration
-Details will be released shortly.
+Please visit our ([Registration Page] https://innersourcesummit2019.brownpapertickets.com/)) to register for InnerSource Commons Spring Summit 2019.
 
 ### Agenda and Speakers
 TBC
