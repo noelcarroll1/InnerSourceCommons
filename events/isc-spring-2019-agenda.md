@@ -34,7 +34,7 @@ Details appearing shortly
 </div>
         </td>
     </tr>
-   
+  
  <tr >
         <td class="time">10:25 - 10:55</td>
         <td colspan="2">Coffee Break</td>
