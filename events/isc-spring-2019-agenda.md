@@ -18,7 +18,6 @@ title: 'InnerSource Commons Spring Summit 2019 Agenda'
     </tr>
 
 
-
    <tr>
         <td class="time">09:20 - 10:20</td>
          <td class="author">
