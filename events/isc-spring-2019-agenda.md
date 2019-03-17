@@ -64,8 +64,8 @@ Thales Inner Source Software (TISS) Community is born from the Thales Digital Tr
 
 
   <tr>
-        <td class="time">11:30 - 12:00</td>
-        <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#Ben_van_%27t_ende">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
+        <td class="time">11:30 - 12:00</td> 
+       <td><a href="/InnerSourceCommons/events/isc-spring-2019-speakers#ben_van_%27t_ende">Ben van 't Ende</a> <span class="affiliation"> (Age of Peers)</span></td>
         <td class="title">Detox your Inner Source
             <span onClick="toggleAbstract('ende-1')" class="abstract-toggle">(<a id="ende-1-link">Show Abstract</a>)</span>
             <div style="display:none" class="abstract" id="ende-1">
